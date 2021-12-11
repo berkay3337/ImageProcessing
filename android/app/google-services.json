@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729824416882",
+    "project_id": "imageprocessing-a3e5c",
+    "storage_bucket": "imageprocessing-a3e5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {  
+        "mobilesdk_app_id": "1:729824416882:android:ffb303dc99c511e3ac1eeb",
+        "android_client_info": {
+          "package_name": "com.imageprocessing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729824416882-ctdrcmad3880qfr7eb8aje3uvj9o936g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWqc4q3gQItjch8wZSX_FDm_by-gkJSf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729824416882-ctdrcmad3880qfr7eb8aje3uvj9o936g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
